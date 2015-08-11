@@ -1,0 +1,22 @@
+{
+  "Keller":"transparent",
+  "Pirates":"white",
+  "Terron":"transparent",
+  "Blazer":"transparent",
+  "Normals":"mediumseagreen",
+  "Maloc":"red",
+  "Peleng":"darkGreen",
+  "People":"royalblue",
+  "Fei":"magenta",
+  "Gaal":"yellow",
+  "lineKeller":"blue",
+  "linePirates":"white",
+  "lineTerron":"darkGreen",
+  "lineBlazer":"red",
+  "lineNormals":"mediumseagreen",
+  "lineMaloc":"red",
+  "linePeleng":"darkGreen",
+  "linePeople":"royalblue",
+  "lineFei":"magenta",
+  "lineGaal":"yellow"
+}

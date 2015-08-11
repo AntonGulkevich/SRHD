@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/view-refresh.svgz</file>
+        <file>icons/document-open.svgz</file>
+        <file>icons/help-about.svgz</file>
+        <file>icons/galaxy_magnifying_glass.png</file>
+        <file>icons/document-save-as.svgz</file>
+        <file>icons/report.svg</file>
+        <file>icons/go-next.svgz</file>
+        <file>icons/go-previous.svgz</file>
+        <file>icons/all_reports.svg</file>
+    </qresource>
+</RCC>
